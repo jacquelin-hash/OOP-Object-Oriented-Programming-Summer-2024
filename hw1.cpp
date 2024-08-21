@@ -1,4 +1,11 @@
-
+/*
+Author: [Jacqueline Guimac] 
+Assignment: HW1 
+Date due: 05 30
+I pledge that I have completed this assignment without the use of AI tools or 
+collaborating with anyone else, in conformance with the NYU School of Engineering 
+Policies and Procedures on Academic Misconduct. 
+*/ 
 #include <iostream> 
 #include <fstream>
 #include <vector>
