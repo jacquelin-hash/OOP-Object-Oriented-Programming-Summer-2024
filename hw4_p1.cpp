@@ -1,11 +1,4 @@
-/*
-Author: [Jacqueline Guimac] 
-Assignment: HW4
-Date due: 06 20
-I pledge that I have completed this assignment without the use of AI tools 
-or collaborating with anyone else, in conformance with the NYU School of Engineering Policies 
-and Procedures on Academic Misconduct. 
-*/ 
+
 #include <iostream>
 #include <string>
 using namespace std;
